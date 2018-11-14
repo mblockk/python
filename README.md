@@ -1,7 +1,6 @@
 # python_coursework
 
-AI HW:
-#
+# AI HW:
 BFS/DFS/ASTAR/GREEDY SEARCH
 #
 Othello game AI (Minimax with AB-pruning, depth limiting)
