@@ -1,0 +1,36 @@
+To get started:
+
+Add items to your cupboard in the
+following format: "quantity item"
+For meat and produce, use lbs
+For dairy and liquids, use cups
+Items without quantity treated as unlimited
+TIP: add condiments/spices without quantity
+Example: 2 lbs steak
+Note the space between "2" and "lbs"
+IF ITEM NAMES HAVE MULTIPLE WORDS, PLEASE
+SEPARATE THEM USING DASHES
+Example: 1 lb chicken-breast
+
+View My Cupboard:
+Press this to populate your cupboard items
+into the window. Clear the window with the
+corresponding "Clear window" button
+
+Delete Item:
+To delete an item from your cupboard, first
+click "View My Cupboard," then select it from
+the list and press "Delete Item"
+
+Empty Cupboard:
+This button erases all contents of your cupboard
+Warning: this cannot be undone
+
+Search for recipes:
+Press this to populate a list of recipes
+available to you given the items currently
+in your cupboard. Clear the window with the
+corresponding "Clear window" button.
+
+Enjoy!
+
