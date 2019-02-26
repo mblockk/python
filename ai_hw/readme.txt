@@ -10,5 +10,9 @@ frozen lake mdp:
 contains implementations of policy evaluation/extraction and Qlearning
 for solving an MDP. 
 
-mb4239_classifier.py:
+Naive Bayes Classifier:
 Naive Bayes classifier that detects SPAM texts. Trains algorithm with train.txt
+
+Weather Prediction HMM:
+
+N-Puzzle Solver:
