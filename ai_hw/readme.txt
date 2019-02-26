@@ -9,3 +9,6 @@ to create an AI for the game "othello"
 frozen lake mdp:
 contains implementations of policy evaluation/extraction and Qlearning
 for solving an MDP. 
+
+mb4239_classifier.py:
+Naive Bayes classifier that detects SPAM texts. Trains algorithm with train.txt
